@@ -11,7 +11,7 @@ Inisiasi User
 Clone Dari Bitbucket
 
   ```
-  git clone https://bitbucket.bri.co.id/scm/bup/new-crm.git
+  git clone https://bit****/scm/bup/.git
   ```
 
 Pertamakali buat repo
