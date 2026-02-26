@@ -7,11 +7,11 @@ Step By Step Push Atm Ke bitbucket
    Melakukan Login User yang ingin melakukan push kedalam bitbucket
    
    ```
-   git config --global user.name "Muhamad Aulia Kartego"
+   git config --global user.name "****"
    ```
 
    ```
-   git config --global user.email "90169927@bri.co.id"
+   git config --global user.email "***@b***"
    ```
 
 2. Membuat dan Berpindah Branch
