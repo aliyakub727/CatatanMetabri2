@@ -2,10 +2,10 @@
 
 Inisiasi User
    ```
-   git config --global user.name "Muhamad Aulia Kartego"
+   git config --global user.name "*****"
    ```
    ```
-   git config --global user.email "90169927@bri.co.id"
+   git config --global user.email "****@****"
    ```
 
 Clone Dari Bitbucket
