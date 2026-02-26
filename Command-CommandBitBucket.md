@@ -29,7 +29,7 @@ Pertamakali buat repo
   git commit -m "Initial Commit"
   ```
  ```
- git remote add origin https://bitbucket.bri.co.id/scm/bup/new-crm.git
+ git remote add origin https://bitbucket.id/scm/bup/new.git
  ```
   ```
   git push -u origin HEAD:master
@@ -41,7 +41,7 @@ Pertamakali buat repo
   cd existing-project
   ```
   ```
-  git remote set-url origin https://bitbucket.bri.co.id/scm/bup/new-crm.git
+  git remote set-url origin https://bitbucket.id/scm/bup/new.git
   ```
   ```
   git push -u origin --all
